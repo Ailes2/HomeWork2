@@ -1,19 +1,17 @@
-//package com.company;
-//
-//
-//public class Main {
-//
-//
-//    public static void main(String[] args) {
-        //HW1
-//        String str = "Qwerty12345";
-//        String oldString = "Qwerty12345";
-//        String newString = oldString.replace("123", "");
-//        System.out.println(newString);
+package com.company;
+
+
+public class Main {
+
+  public static void main(String[] args) {
+
+    }
+
+}
 
 
 
-        //HW2
+//HW2
 //      int a;
 //      int b;
 //      int c;
@@ -34,7 +32,7 @@
 //      System.out.println("D3 = " +D3);
 
 
-      //HW3.1
+//HW3.1
 //      int a=40,b=45;
 //      System.out.println("Площадь прямоугольного теругольника с катетами "
 //              + a+" и "+ b+ " равна " +(a*b)/2);
@@ -42,17 +40,10 @@
 //      System.out.println("Периметр прямоугольного теругольника с катетами "
 //              + a+" и "+ b+ " и гипотенузой " + (float) c+" равен " +(float)(a+b+c));
 
-        //HW3.2
+//HW3.2
 
 //                System.out.printf("Площадь %.2f",geroneSquare(14, 12, 12));}
 //
 //            public static double geroneSquare(double a, double b, double c) {
 //                double p = (a + b + c) / 2;
 //                return Math.sqrt(p * (p - a) * (p - b) * (p - c));
-
-
-
-
-
-//    }
-//}
